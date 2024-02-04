@@ -62,7 +62,7 @@ button {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 641x) {
     .produto {
         width: 50%;
     }
